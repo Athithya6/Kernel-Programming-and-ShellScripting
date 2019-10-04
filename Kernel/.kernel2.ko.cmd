@@ -1,0 +1,1 @@
+cmd_/home/student/Desktop/Athithya/Kernel/kernel2.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/student/Desktop/Athithya/Kernel/kernel2.ko /home/student/Desktop/Athithya/Kernel/kernel2.o /home/student/Desktop/Athithya/Kernel/kernel2.mod.o
